@@ -1,1 +1,3 @@
 # selfstudy
+I'm editing his file to verify what happens...
+This file is a branch of the master copy
